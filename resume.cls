@@ -30,12 +30,12 @@
 ]{texgyretermes}
 
 \RequirePackage[
-	a4paper,
-	left=0.6in,
-	right=0.6in,
-	top=.6in,
-	bottom=0.2in,
-	nohead
+  a4paper,
+  left=0.6in,
+  right=0.6in,
+  top=.8in,
+  bottom=0.8in,
+  nohead
 ]{geometry}
 
 \RequirePackage{titlesec}
