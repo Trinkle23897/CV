@@ -30,19 +30,19 @@
 ]{texgyretermes}
 
 \RequirePackage[
-  a4paper,
-  left=0.6in,
-  right=0.6in,
-  top=.8in,
-  bottom=0.8in,
-  nohead
+	a4paper,
+	left=0.6in,
+	right=0.6in,
+	top=.4in,
+	bottom=0.4in,
+	nohead
 ]{geometry}
 
 \RequirePackage{titlesec}
 \RequirePackage{enumitem}
 \setlist{noitemsep} % removes spacing from items but leaves space around the whole list
 %\setlist{nosep} % removes all vertical spacing within and around the list
-\setlist[itemize]{topsep=0.25em, leftmargin=1.5pc}
+\setlist[itemize]{topsep=0em, leftmargin=1.5pc}
 \setlist[enumerate]{topsep=0.25em, leftmargin=1.5pc}
 \RequirePackage[super]{nth}
 
